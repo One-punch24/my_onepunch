@@ -1,1 +1,1 @@
-{\rtf1}
+# Resource website and materials
