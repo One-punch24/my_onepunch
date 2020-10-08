@@ -8,5 +8,7 @@
 
 #### 3 https://www.zhihu.com/search?type=content&q=torch%20parameter Parameter
 
-#### 4 https://www.kaggle.com/sironghuang/understanding-pytorch-hooks Something about hook
+#### 4 https://www.kaggle.com/sironghuang/understanding-pytorch-hooks 
+
+#### https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/ Something about hook
 
