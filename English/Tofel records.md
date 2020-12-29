@@ -222,4 +222,6 @@ Take those reasons above, learning to manage the money at a young age is definit
 
 
 
-With the fierce competition for jobs
+TPO 
+
+With the accelerating of science and technology, we are witnessing and experiencing vast and radical changes in each a
